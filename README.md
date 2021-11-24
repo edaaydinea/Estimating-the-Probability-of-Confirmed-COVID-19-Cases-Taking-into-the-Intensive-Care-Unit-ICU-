@@ -207,6 +207,7 @@ According to our declaraton of businness goal: our aim to predict admission to t
   * [https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/](https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/)
 
 * ***Others***
+  * Applied Data Science Bootcamp Notebook by Çağlar Subaşı
   * [https://yigitsener.medium.com/veri-analizinde-değişkenlerin-gruba-bağlı-özelliklerini-ayrıntılı-veren-fonksiyonunun-pythonda-3e11b0fa1cc7](https://yigitsener.medium.com/veri-analizinde-değişkenlerin-gruba-bağlı-özelliklerini-ayrıntılı-veren-fonksiyonunun-pythonda-3e11b0fa1cc7)
   * [https://yigitsener.medium.com/veri-biliminde-eksik-kay%C4%B1p-verilere-yakla%C5%9F%C4%B1m-stratejileri-ve-python-pandas-uygulamas%C4%B1-501fbf643795](https://yigitsener.medium.com/veri-biliminde-eksik-kay%C4%B1p-verilere-yakla%C5%9F%C4%B1m-stratejileri-ve-python-pandas-uygulamas%C4%B1-501fbf643795)
   * [https://www.delftstack.com/howto/seaborn/size-of-seaborn-heatmap/](https://www.delftstack.com/howto/seaborn/size-of-seaborn-heatmap/)
