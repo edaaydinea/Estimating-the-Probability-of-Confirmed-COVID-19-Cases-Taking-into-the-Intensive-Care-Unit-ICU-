@@ -99,7 +99,7 @@ According to our declaraton of businness goal: our aim to predict admission to t
   * **Row Uniquness :** Change the all columns by patient number, Drop patient rows when ICU = 1 at Windows 0-2. (We cannot use in the modelling part.)
   * **Drop - Illogical rows:** There is no illogical columns
   * **Drop Null-Target rows:** Drop the 199 patient ID information
-* **Data Splitting (Train / Test) :**
+* **Data Splitting (Train / Test) :** 
 * **Outlier Handling :** The data set scaled before. So we don't have to do anything.
 * **Missing Data Handling :** Fill all NaN variales bu using ffill and bfill method.
 * **Feature Engineering**  
@@ -132,7 +132,7 @@ According to our declaraton of businness goal: our aim to predict admission to t
 * Feature Encoding → Handling categorical features
 * Data Modelling
   * KNN → Accuracy: %74
-* Random Forest Classifier →  Accuracy : %78
+  * Random Forest Classifier →  Accuracy : %78
 
 ![window 1 auc score](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-/blob/main/windows%20-1%20auc%20score.png)
 
@@ -146,7 +146,7 @@ According to our declaraton of businness goal: our aim to predict admission to t
 * Feature Encoding → Handling categorical features
 * Data Modelling
   * KNN → Accuracy: %72
-* Random Forest Classifier →  Accuracy : %84
+  * Random Forest Classifier →  Accuracy : %84
 
 ![window 1 auc score](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-/blob/main/window%202-3%20acu%20score.png)
 
@@ -160,7 +160,7 @@ According to our declaraton of businness goal: our aim to predict admission to t
 * Feature Encoding → Handling categorical features
 * Data Modelling
   * KNN → Accuracy: %96
-* Random Forest Classifier →  Accuracy : %98
+  * Random Forest Classifier →  Accuracy : %98
 
 ![window 1 auc score](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-/blob/main/window%204-5%20auc%20score.png)
 
