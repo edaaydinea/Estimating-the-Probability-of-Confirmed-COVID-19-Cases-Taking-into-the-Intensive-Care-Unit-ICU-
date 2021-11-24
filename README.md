@@ -5,7 +5,8 @@ This repository includes the slides and coding parts for this project.
 This project is carried out by *Eda AYDIN, Zilan EROL* under the supervision of *Engin Deniz ALPMAN* in the **[Data Science for the Public Good program](https://www.kodluyoruz.org/bootcamp/data-science-for-the-public-good-istanbul-ankara/)**
 
 The dataset of this project is obtained from the [Kaggle - COVID-19 - Clinical Data to assess diagnosis](https://www.kaggle.com/Sírio-Libanes/covid19)
-Notebook of this project: [Notebook](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-/blob/main/icu_prediction_new.ipynb)
+
+**Notebook of this project:** [Notebook](https://github.com/edaaydinea/Estimating-the-Probability-of-Confirmed-COVID-19-Cases-Taking-into-the-Intensive-Care-Unit-ICU-/blob/main/icu_prediction_new.ipynb)
 
 Note:  The data sets to be used in the project comply with the health-ethical rules and are suitable for use as a license.
 
